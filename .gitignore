@@ -1,0 +1,26 @@
+# Unreal Engine generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# IDE / generated solutions
+.idea/
+*.sln
+*.slnx
+
+# Logs / OS junk
+*.log
+Thumbs.db
+.DS_Store
+
+# Unreal build receipts
+Build/Receipts/
